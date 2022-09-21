@@ -4,7 +4,7 @@ This is my directory, it is called the world-of-computer,because it is
 really another world. It has information about me. It is my first time 
 knowing about Unix and learning different commands. The directory is 
 divided into five folders, each folder has a little information about 
-me.The folers are as follows:
+me.The folders are as follows:
 
 1.Who am I?
 
