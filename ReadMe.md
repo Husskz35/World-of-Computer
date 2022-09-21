@@ -12,7 +12,7 @@ me.The folers are as follows:
 
 3.Where am I going?
 
-4. What is important to me?
+4.What is important to me?
 
 5.What is possible?
 
