@@ -1,2 +1,2 @@
-Learning is important to me; Eating healthy food as well. Being organized 
-is also important to me..
+Learning is important to me; Eating healthy food as well.My family is 
+important to me and Being organized.
